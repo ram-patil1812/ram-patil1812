@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramchandra Patil.
 - 👀 I’m interested in Data analytics.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on python/ SQL/ Machine Learning/ Tableau etc.
+- 💞️ I’m looking to collaborate on python/ SQL/ Machine Learning/ Tableau/ PowerBI etc.
 - 📫 How to reach me rampatil1218@gmail.com
 
 <!---
